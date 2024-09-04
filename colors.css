@@ -3,11 +3,12 @@
     grid-template-columns: auto auto auto auto;
     padding: 10px;
     gap: 20px;
-  }
-  .grid-item {
+}
+
+.grid-item {
     padding: 20px;
     font-size: 30px;
     text-align: center;
     border-radius: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-  }
+}
