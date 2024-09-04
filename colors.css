@@ -246,7 +246,7 @@
 }
 
 .tinted-capri {
-    background-color:hwb(155 50% 0%);
+    background-color:hwb(195 50% 0%);
 }
 
 .shaded-capri {
@@ -426,19 +426,19 @@
 }
 
 .crimson {
-    background-color:hwb(330 0% 0%);
+    background-color:hwb(345 0% 0%);
 }
 
 .tinted-crimson {
-    background-color:hwb(330 50% 0%);
+    background-color:hwb(345 50% 0%);
 }
 
 .shaded-crimson {
-    background-color:hwb(330 0% 50%);
+    background-color:hwb(345 0% 50%);
     color:#fff;
 }
 
 .toned-crimson {
-    background-color:hwb(330 25% 50%);
+    background-color:hwb(345 25% 50%);
     color:#fff;
 }
