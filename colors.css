@@ -12,3 +12,433 @@
     border-radius: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.red {
+    background-color:hwb(0 0% 0%);
+}
+
+.tinted-red {
+    background-color:hwb(0 50% 0%);
+}
+
+.shaded-red {
+    background-color:hwb(0 0% 50%);
+    color:#fff;
+}
+
+.toned-red {
+    background-color:hwb(0 25% 50%);
+    color:#fff;
+}
+
+.vermillion {
+    background-color:hwb(15 0% 0%);
+}
+
+.tinted-vermillion {
+    background-color:hwb(15 50% 0%);
+}
+
+.shaded-vermillion {
+    background-color:hwb(15 0% 50%);
+    color:#fff;
+}
+
+.toned-vermillion {
+    background-color:hwb(15 25% 50%);
+    color:#fff;
+}
+
+.orange {
+    background-color:hwb(30 0% 0%);
+}
+
+.tinted-orange {
+    background-color:hwb(30 50% 0%);
+}
+
+.shaded-orange {
+    background-color:hwb(30 0% 50%);
+    color:#fff;
+}
+
+.toned-orange {
+    background-color:hwb(30 25% 50%);
+    color:#fff;
+}
+
+.amber {
+    background-color:hwb(45 0% 0%);
+}
+
+.tinted-amber {
+    background-color:hwb(45 50% 0%);
+}
+
+.shaded-amber {
+    background-color:hwb(45 0% 50%);
+    color:#fff;
+}
+
+.toned-amber {
+    background-color:hwb(45 25% 50%);
+    color:#fff;
+}
+
+.yellow {
+    background-color:hwb(60 0% 0%);
+}
+
+.tinted-yellow {
+    background-color:hwb(60 50% 0%);
+}
+
+.shaded-yellow {
+    background-color:hwb(60 0% 50%);
+}
+
+.toned-yellow {
+    background-color:hwb(60 25% 50%);
+}
+
+.lime {
+    background-color:hwb(75 0% 0%);
+}
+
+.tinted-lime {
+    background-color:hwb(75 50% 0%);
+}
+
+.shaded-lime {
+    background-color:hwb(75 0% 50%);
+}
+
+.toned-lime {
+    background-color:hwb(75 25% 50%);
+}
+
+.chartreuse {
+    background-color:hwb(90 0% 0%);
+}
+
+.tinted-chartreuse {
+    background-color:hwb(90 50% 0%);
+}
+
+.shaded-chartreuse {
+    background-color:hwb(90 0% 50%);
+    color:#fff;
+}
+
+.toned-chartreuse {
+    background-color:hwb(90 25% 50%);
+}
+
+.harlequin {
+    background-color:hwb(105 0% 0%);
+}
+
+.tinted-harlequin {
+    background-color:hwb(105 50% 0%);
+}
+
+.shaded-harlequin {
+    background-color:hwb(105 0% 50%);
+    color:#fff;
+}
+
+.toned-harlequin {
+    background-color:hwb(105 25% 50%);
+    color:#fff;
+}
+
+.green {
+    background-color:hwb(120 0% 0%);
+}
+
+.tinted-green {
+    background-color:hwb(120 50% 0%);
+}
+
+.shaded-green {
+    background-color:hwb(120 0% 50%);
+    color:#fff;
+}
+
+.toned-green {
+    background-color:hwb(120 25% 50%);
+    color:#fff;
+}
+
+.erin {
+    background-color:hwb(135 0% 0%);
+}
+
+.tinted-erin {
+    background-color:hwb(135 50% 0%);
+}
+
+.shaded-erin {
+    background-color:hwb(135 0% 50%);
+    color:#fff;
+}
+
+.toned-erin {
+    background-color:hwb(135 25% 50%);
+    color:#fff;
+}
+
+.bilometer {
+    background-color:hwb(150 0% 0%);
+}
+
+.tinted-bilometer {
+    background-color:hwb(150 50% 0%);
+}
+
+.shaded-bilometer {
+    background-color:hwb(150 0% 50%);
+    color:#fff;
+}
+
+.toned-bilometer {
+    background-color:hwb(150 25% 50%);
+    color:#fff;
+}
+
+.aquamarine {
+    background-color:hwb(165 0% 0%);
+}
+
+.tinted-aquamarine {
+    background-color:hwb(165 50% 0%);
+}
+
+.shaded-aquamarine {
+    background-color:hwb(165 0% 50%);
+    color:#fff;
+}
+
+.toned-aquamarine {
+    background-color:hwb(165 25% 50%);
+    color:#fff;
+}
+
+.cyan {
+    background-color:hwb(180 0% 0%);
+}
+
+.tinted-cyan {
+    background-color:hwb(180 50% 0%);
+}
+
+.shaded-cyan {
+    background-color:hwb(180 0% 50%);
+    color:#fff;
+}
+
+.toned-cyan {
+    background-color:hwb(180 25% 50%);
+}
+
+.capri {
+    background-color:hwb(195 0% 0%);
+}
+
+.tinted-capri {
+    background-color:hwb(155 50% 0%);
+}
+
+.shaded-capri {
+    background-color:hwb(195 0% 50%);
+    color:#fff;
+}
+
+.toned-capri {
+    background-color:hwb(195 25% 50%);
+    color:#fff;
+}
+
+.azure {
+    background-color:hwb(210 0% 0%);
+}
+
+.tinted-azure {
+    background-color:hwb(210 50% 0%);
+}
+
+.shaded-azure {
+    background-color:hwb(210 0% 50%);
+    color:#fff;
+}
+
+.toned-azure {
+    background-color:hwb(210 25% 50%);
+    color:#fff;
+}
+
+.cerulean {
+    background-color:hwb(225 0% 0%);
+    color:#fff;
+}
+
+.tinted-cerulean {
+    background-color:hwb(225 50% 0%);
+}
+
+.shaded-cerulean {
+    background-color:hwb(225 0% 50%);
+    color:#fff;
+}
+
+.toned-cerulean {
+    background-color:hwb(225 25% 50%);
+    color:#fff;
+}
+
+.blue {
+    background-color:hwb(240 0% 0%);
+    color:#fff;
+}
+
+.tinted-blue {
+    background-color:hwb(240 50% 0%);
+}
+
+.shaded-blue {
+    background-color:hwb(240 0% 50%);
+    color:#fff;
+}
+
+.toned-blue {
+    background-color:hwb(240 25% 50%);
+    color:#fff;
+}
+
+.indigo {
+    background-color:hwb(255 0% 0%);
+    color:#fff;
+}
+
+.tinted-indigo {
+    background-color:hwb(255 50% 0%);
+}
+
+.shaded-indigo {
+    background-color:hwb(255 0% 50%);
+    color:#fff;
+}
+
+.toned-indigo {
+    background-color:hwb(255 25% 50%);
+    color:#fff;
+}
+
+.violet {
+    background-color:hwb(270 0% 0%);
+    color:#fff;
+}
+
+.tinted-violet {
+    background-color:hwb(270 50% 0%);
+}
+
+.shaded-violet {
+    background-color:hwb(270 0% 50%);
+    color:#fff;
+}
+
+.toned-violet {
+    background-color:hwb(270 25% 50%);
+    color:#fff;
+}
+
+.purple {
+    background-color:hwb(285 0% 0%);
+}
+
+.tinted-purple {
+    background-color:hwb(285 50% 0%);
+}
+
+.shaded-purple {
+    background-color:hwb(285 0% 50%);
+    color:#fff;
+}
+
+.toned-purple {
+    background-color:hwb(285 25% 50%);
+    color:#fff;
+}
+
+.magenta {
+    background-color:hwb(300 0% 0%);
+}
+
+.tinted-magenta {
+    background-color:hwb(300 50% 0%);
+}
+
+.shaded-magenta {
+    background-color:hwb(300 0% 50%);
+    color:#fff;
+}
+
+.toned-magenta {
+    background-color:hwb(300 25% 50%);
+    color:#fff;
+}
+
+.cerise {
+    background-color:hwb(315 0% 0%);
+}
+
+.tinted-cerise {
+    background-color:hwb(315 50% 0%);
+}
+
+.shaded-cerise {
+    background-color:hwb(315 0% 50%);
+    color:#fff;
+}
+
+.toned-cerise {
+    background-color:hwb(315 25% 50%);
+    color:#fff;
+}
+
+.rose {
+    background-color:hwb(330 0% 0%);
+}
+
+.tinted-rose {
+    background-color:hwb(330 50% 0%);
+}
+
+.shaded-rose {
+    background-color:hwb(330 0% 50%);
+    color:#fff;
+}
+
+.toned-rose {
+    background-color:hwb(330 25% 50%);
+    color:#fff;
+}
+
+.crimson {
+    background-color:hwb(330 0% 0%);
+}
+
+.tinted-crimson {
+    background-color:hwb(330 50% 0%);
+}
+
+.shaded-crimson {
+    background-color:hwb(330 0% 50%);
+    color:#fff;
+}
+
+.toned-crimson {
+    background-color:hwb(330 25% 50%);
+    color:#fff;
+}
