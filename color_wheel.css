@@ -11,6 +11,13 @@
     text-align: center;
     border-radius: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.grid-item:hover {
+    filter: brightness(85%);
 }
 
 .red {
@@ -188,20 +195,20 @@
     color:#fff;
 }
 
-.bilometer {
+.spring-green {
     background-color:hwb(150 0% 0%);
 }
 
-.tinted-bilometer {
+.tinted-spring-green {
     background-color:hwb(150 50% 0%);
 }
 
-.shaded-bilometer {
+.shaded-spring-green {
     background-color:hwb(150 0% 50%);
     color:#fff;
 }
 
-.toned-bilometer {
+.toned-spring-green {
     background-color:hwb(150 25% 50%);
     color:#fff;
 }
@@ -241,20 +248,20 @@
     background-color:hwb(180 25% 50%);
 }
 
-.capri {
+.deep-sky-blue {
     background-color:hwb(195 0% 0%);
 }
 
-.tinted-capri {
+.tinted-deep-sky-blue {
     background-color:hwb(195 50% 0%);
 }
 
-.shaded-capri {
+.shaded-deep-sky-blue {
     background-color:hwb(195 0% 50%);
     color:#fff;
 }
 
-.toned-capri {
+.toned-deep-sky-blue {
     background-color:hwb(195 25% 50%);
     color:#fff;
 }
