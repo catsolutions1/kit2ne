@@ -1,0 +1,101 @@
+:root {
+    --red-cardinal:hsl(0, 100%, 50%); /*#ff0000*/
+    --red-light:hsl(0, 100%, 75%);
+    --red-dark:hsl(0, 100%, 25%);
+
+    --coquelicot-cardinal:hsl(15, 100%, 50%); /*#ff4000*/
+    --coquelicot-light:hsl(15, 100%, 75%);
+    --coquelicot-dark:hsl(15, 100%, 25%);
+
+    --orange-cardinal:hsl(30, 100%, 50%); /*#ff8000*/
+    --orange-light:hsl(30, 100%, 75%);
+    --orange-dark:hsl(30, 100%, 25%);
+
+    --amber-cardinal:hsl(45, 100%, 50%); /*#ffc000*/
+    --amber-light:hsl(45, 100%, 75%);
+    --amber-dark:hsl(45, 100%, 25%);
+
+    --yellow-cardinal:hsl(60, 100%, 50%); /*#ffff00*/
+    --yellow-light:hsl(60, 100%, 75%);
+    --yellow-dark:hsl(60, 100%, 25%);
+
+    --lime-cardinal:hsl(75, 100%, 50%); /*#c0ff00*/
+    --lime-light:hsl(75, 100%, 75%);
+    --lime-dark:hsl(75, 100%, 25%);
+
+    --chartreuse-cardinal:hsl(90, 100%, 50%); /*#80ff00*/
+    --chartreuse-light:hsl(90, 100%, 75%);
+    --chartreuse-dark:hsl(90, 100%, 25%);
+
+    --harlequin-cardinal:hsl(105, 100%, 50%); /*#40ff00*/
+    --harlequin-light:hsl(105, 100%, 75%);
+    --harlequin-dark:hsl(105, 100%, 25%);
+
+    --green-cardinal:hsl(120, 100%, 50%); /*#00ff00*/
+    --green-light:hsl(120, 100%, 75%);
+    --green-dark:hsl(120, 100%, 25%);
+
+    --erin-cardinal:hsl(135, 100%, 50%); /*#00ff40*/
+    --erin-light:hsl(135, 100%, 75%);
+    --erin-dark:hsl(135, 100%, 25%);
+
+    --spring-cardinal:hsl(150, 100%, 50%); /*#00ff80*/
+    --spring-light:hsl(150, 100%, 75%);
+    --spring-dark:hsl(150, 100%, 25%);
+
+    --aquamarine-cardinal:hsl(165, 100%, 50%); /*#00ffc0*/
+    --aquamarine-light:hsl(165, 100%, 75%);
+    --aquamarine-dark:hsl(165, 100%, 25%);
+
+    --cyan-cardinal:hsl(180, 100%, 50%); /*#00ffff*/
+    --cyan-light:hsl(180, 100%, 75%);
+    --cyan-dark:hsl(180, 100%, 25%);
+
+    --capri-cardinal:hsl(195, 100%, 50%); /*#00c0ff*/
+    --capri-light:hsl(195, 100%, 75%);
+    --capri-dark:hsl(195, 100%, 25%);
+
+    --azure-cardinal:hsl(210, 100%, 50%); /*#0080ff*/
+    --azure-light:hsl(210, 100%, 75%);
+    --azure-dark:hsl(210, 100%, 25%);
+
+    --cerulean-cardinal:hsl(225, 100%, 50%); /*#0040ff*/
+    --cerulean-light:hsl(225, 100%, 75%);
+    --cerulean-dark:hsl(225, 100%, 25%);
+
+    --blue-cardinal:hsl(240, 100%, 50%); /*#0000ff*/
+    --blue-light:hsl(240, 100%, 75%);
+    --blue-dark:hsl(240, 100%, 25%);
+
+    --indigo-cardinal:hsl(255, 100%, 50%); /*#4000ff*/
+    --indigo-light:hsl(255, 100%, 75%);
+    --indigo-dark:hsl(255, 100%, 25%);
+
+    --violet-cardinal:hsl(270, 100%, 50%); /*#8000ff*/
+    --violet-light:hsl(270, 100%, 75%);
+    --violet-dark:hsl(270, 100%, 25%);
+
+    --purple-cardinal:hsl(285, 100%, 50%); /*#c000ff*/
+    --purple-light:hsl(285, 100%, 75%);
+    --purple-dark:hsl(285, 100%, 25%);
+
+    --magenta-cardinal:hsl(300, 100%, 50%); /*#ff00ff*/
+    --magenta-light:hsl(300, 100%, 75%);
+    --magenta-dark:hsl(300, 100%, 25%);
+
+    --cerise-cardinal:hsl(315, 100%, 50%); /*#ff00c0*/
+    --cerise-light:hsl(315, 100%, 75%);
+    --cerise-dark:hsl(315, 100%, 25%);
+
+    --rose-cardinal:hsl(330, 100%, 50%); /*#ff0080*/
+    --rose-light:hsl(330, 100%, 75%);
+    --rose-dark:hsl(330, 100%, 25%);
+
+    --crimson-cardinal:hsl(345, 100%, 50%); /*#ff0040*/
+    --crimson-light:hsl(345, 100%, 75%);
+    --crimson-dark:hsl(345, 100%, 25%);
+
+    --gray-cardinal:hsl(0, 0%, 50%); /*#808080*/
+    --gray-light:hsl(0, 0%, 75%);
+    --gray-dark:hsl(0, 0%, 25%);
+}
